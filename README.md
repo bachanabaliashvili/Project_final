@@ -2,8 +2,8 @@
 
 # ეს არის naec-ის აპლიკაცია 
 
-#გამოყენებულია reqres-ის api 
+# გამოყენებულია reqres-ის api 
 
 # push notification
 
-# და ა.შ
+# და ა.შ :))
